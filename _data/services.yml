@@ -1,4 +1,4 @@
-- name: TestService
-  logo: /img/categories/arts-culture-history.svg
+- name: Build your catalog
+  logo: /img/services-logo/buildcat.png
   featured: true
-  url:
+  url: build_catalog
