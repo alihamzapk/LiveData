@@ -27,9 +27,12 @@ dataset_fields:
   - field_name: maintainer_email
     label: Maintainer Email
     datajson: contactPoint.hasEmail
-  - field_name: tags
-    label: Tags
-    datajson: tags
+  - field_name: keyword
+    label: Keyword
+    datajson: keyword
+  - field_name: creation_date
+    label: Creation Date
+    datajson: creation_date
 
 resource_fields:
   - field_name: name
