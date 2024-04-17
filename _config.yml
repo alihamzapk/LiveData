@@ -1,5 +1,5 @@
 title: LiveData
-greeting: DataScientia LiveData Catalog 
+greeting: DataScientia LiveData Catalogs
 description: This catalog collects and provides information about all the LiveData catalogs created in the DataScientia community. The main LiveData catalog allows the user to navigate among different data domains represented by the different domain-specific LiveData catalogs, with the possibility to jump directly into them and explore their contents. 
 baseurl: /LiveData
 logo: /img/LD-noBG.png

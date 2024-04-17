@@ -8,7 +8,7 @@ resources:
     url: >-
       https://datascientiafoundation.github.io/LiveData-KGE/
     format: html
-license: 'https://creativecommons.org/licenses/by/4.0/'
+license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Digital University
 maintainer: Simone Bocca
