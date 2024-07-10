@@ -8,6 +8,7 @@ body {
   display: flex;
   flex-direction: column;
   overflow-x: hidden;
+  justify-content: center
 }
 
 footer {
@@ -37,6 +38,8 @@ h1, h2, h3 {
 .jumbotron .catalog-logo {
   margin-top: auto;
   margin-bottom: auto;
+  display: flex;
+  justify-content: space-between;
 }
 
 .inner-logo {
@@ -44,6 +47,13 @@ h1, h2, h3 {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+  
+}
+
+.ptext {
+	font-family: system-ui;
+	max-width: 100%;
+	width: 100%;
 }
 
 .btn-primary, .btn-info {
