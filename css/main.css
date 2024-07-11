@@ -50,12 +50,6 @@ h1, h2, h3 {
   
 }
 
-.ptext {
-	font-family: system-ui;
-	max-width: 100%;
-	width: 100%;
-}
-
 .btn-primary, .btn-info {
   color: #ffffff;
   /*
