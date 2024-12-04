@@ -2,7 +2,7 @@
 /* Set the background of the page and remove the overflow*/
 body {
   /*background: none #59abb3;  website main background */
-  background: none #fde9d9;
+  background: none #E1D7F3;
   font-family: system-ui;
   min-height: 100vh;
   display: flex;
@@ -195,8 +195,8 @@ dataset h3 {
   background-color: #59abb3;
   border-color: #59abb3;
   */
-  background-color: #fde9d9;
-  border-color: #fde9d9;
+  background-color: #E1D7F3;
+  border-color: #E1D7F3;
 }
 
 .secondary {
